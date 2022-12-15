@@ -5,6 +5,7 @@
     padding: 30px;
     margin: 20px;
     background-color: bisque;
+    text-align: center;
 }
 .laatikko { 
     width: 300px;
@@ -13,6 +14,7 @@
     padding: 30px;
     margin: 20px;
     background-color: bisque;
+    text-align: center;
 }
 .loota { 
     width: 300px;
@@ -24,10 +26,13 @@
     left: 450px;
     top: 145px;
     background-color: bisque;
+    text-align: center;
 }
 .joku {
-    width: 2000px;
+    width: 1810px;
     height: 120px;
     border: 10px solid black;
+    text-align: center;
+    background-color: bisque;
 
 }
