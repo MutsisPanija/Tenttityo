@@ -37,3 +37,15 @@
 
 }
 body {background-color: rgb(192, 61, 185);}
+.haker { 
+    width: 300px;
+    height: 200px;
+    border: 10px solid black;
+    padding: 30px;
+    margin: 20px;
+    position: absolute;
+    right: -700px;
+    top: 30px;
+    background-color: bisque;
+    text-align: center;
+}
